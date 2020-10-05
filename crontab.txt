@@ -1,0 +1,1 @@
+0 1 * * * /bin/clickhouse-backup create >> /var/log/clickhouse-backup.log 2>&1
